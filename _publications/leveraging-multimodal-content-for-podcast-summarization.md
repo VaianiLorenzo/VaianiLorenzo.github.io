@@ -13,6 +13,6 @@ Podcasts are becoming an increasingly popular way to share streaming audio conte
 
 <!--[Download paper here](http://academicpages.github.io/files/paper1.pdf)-->
 
-Recommended citation: https://dl.acm.org/doi/10.1145/3477314.3507106
+Recommended citation: 'https://dl.acm.org/doi/10.1145/3477314.3507106'
 
 
