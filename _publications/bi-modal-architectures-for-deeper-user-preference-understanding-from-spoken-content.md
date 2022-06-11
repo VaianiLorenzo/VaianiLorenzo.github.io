@@ -5,7 +5,7 @@ permalink: /publication/bi-modal-architectures-for-deeper-user-preference-unders
 excerpt: 'The analysis of spoken content often relies on a two-stage architecture, which comprises (i) audio-to-text conversion and (ii) transcript processing. This paper elaborates on practical use cases in which audio-related content can be processed jointly with textual data to better capture user preferences.'
 date: 2022-02-01
 venue: 'AudioCHI 2022 Workshop'
-paperurl: 'https://speechretrievalworkshop.github.io/'
+paperurl: 'https://speechretrievalworkshop.github.io/Bimodal.pdf'
 citation: 'Moreno La Quatra, Lorenzo Vaiani, Luca Cagliero, and Paolo Garza. 2022. Bi-modal architectures for deeper user preference understanding from spoken content.'
 ---
 
@@ -15,4 +15,4 @@ The analysis of spoken content often relies on a two-stage architecture, which c
 
 <!--[Download paper here](http://academicpages.github.io/files/paper1.pdf)-->
 
-You can find the paper here: [https://speechretrievalworkshop.github.io/](https://speechretrievalworkshop.github.io/)
+You can find the paper here: [https://speechretrievalworkshop.github.io/Bimodal.pdf](https://speechretrievalworkshop.github.io/Bimodal.pdf)
