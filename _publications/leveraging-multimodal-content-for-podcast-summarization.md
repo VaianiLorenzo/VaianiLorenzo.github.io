@@ -6,7 +6,7 @@ excerpt: 'Podcasts are becoming an increasingly popular way to share streaming a
 date: 2022-04-25
 venue: 'ACM SAC 2022'
 paperurl: 'https://dl.acm.org/doi/10.1145/3477314.3507106'
-citation: 'Lorenzo Vaiani, Moreno La Quatra, Luca Cagliero, and Paolo Garza. 2022. Leveraging multimodal content for podcast summarization. In Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing (SAC '22). Association for Computing Machinery, New York, NY, USA, 863–870. https://doi.org/10.1145/3477314.3507106'
+citation: 'Lorenzo Vaiani, Moreno La Quatra, Luca Cagliero, and Paolo Garza. 2022. Leveraging multimodal content for podcast summarization.'
 ---
 
 Keywords: Podcast summarization, multimodal learning, extractive summarization, deep learning, multimodal features fusion
