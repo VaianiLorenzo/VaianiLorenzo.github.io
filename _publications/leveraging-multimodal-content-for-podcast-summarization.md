@@ -5,6 +5,8 @@ permalink: /publication/leveraging-multimodal-content-for-podcast-summarization
 excerpt: 'Podcasts are becoming an increasingly popular way to share streaming audio content. Podcast summarization aims at improving the accessibility of podcast content by automatically generating a concise summary consisting of text/audio extracts. To leverage the multimodal information hidden in podcast episodes we propose an end-to-end architecture for extractive summarization that encodes both acoustic and textual contents.'
 date: 2022-04-25
 venue: 'ACM SAC 2022'
+paperurl: 'https://dl.acm.org/doi/10.1145/3477314.3507106'
+citation: 'Lorenzo Vaiani, Moreno La Quatra, Luca Cagliero, and Paolo Garza. 2022. Leveraging multimodal content for podcast summarization. In Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing (SAC '22). Association for Computing Machinery, New York, NY, USA, 863–870. https://doi.org/10.1145/3477314.3507106'
 ---
 
 Keywords: Podcast summarization, multimodal learning, extractive summarization, deep learning, multimodal features fusion
