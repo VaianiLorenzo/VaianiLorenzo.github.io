@@ -11,30 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Deep NLP models in multimodal scenarios, Politecnico di Torino, 2024 (expected)
-* M.S. in Computer Engineering, Politecnico di Torino (Turin, Italy) 2018
-* B.S. in Computer Engineering, Università degli Studi di Firenze (Florence, Italy), 2015
+* Ph.D in Deep NLP models in multimodal scenarios, Politecnico di Torino  (Turin, Italy), 2024 (expected)
+* M.S. in Computer Engineering, Politecnico di Torino (Turin, Italy) 2021
+* B.S. in Computer Engineering, Università degli Studi di Firenze (Florence, Italy), 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Data Science Cosultatnt
+  * Company: K-Master Telepass Srl
+  * Duties included: deployment of the solution developed during the thesis work
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C, C++, Java
+* Data Manipulation and Visualization: NumPy, Pandas, Matplotlib, Seaborn
+* ML tools and libraries: PyTorch (torch, torchvision, torchaudio), HuggingFace (transformers)
 
 Publications
 ======
